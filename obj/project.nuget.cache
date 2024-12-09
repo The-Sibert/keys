@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "jFN0YGzDwn4=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Sivert\\source\\code\\C#\\keys\\keys.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sivert\\.nuget\\packages\\microsoft.csharp\\4.4.1\\microsoft.csharp.4.4.1.nupkg.sha512",
+    "C:\\Users\\Sivert\\.nuget\\packages\\system.commandline\\2.0.0-beta1.21308.1\\system.commandline.2.0.0-beta1.21308.1.nupkg.sha512",
+    "C:\\Users\\Sivert\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://nuget.emzi0767.com/api/v3/index.json."
+    }
+  ]
+}
